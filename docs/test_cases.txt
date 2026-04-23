@@ -1,0 +1,20 @@
+# Test Cases - Login Feature
+## TC-LOGIN-01 : Login valide
+- Préconditions : utilisateur existant
+- Étapes :
+  1. Entrer username valide
+  2. Entrer password valide
+  3. Cliquer sur Login
+- Résultat attendu : accès au dashboard
+- Statut : Passed
+
+---
+
+## TC-LOGIN-02 : Login invalide
+- Préconditions : utilisateur inexistant
+- Étapes :
+  1. Entrer username invalide
+  2. Entrer password invalide
+  3. Cliquer sur Login
+- Résultat attendu : message d’erreur
+- Statut : Failed (message non conforme)
