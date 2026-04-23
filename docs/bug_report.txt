@@ -1,0 +1,16 @@
+# Bug Report - LOGIN-01
+## Titre
+Message d’erreur non conforme lors d’un login invalide
+## Description
+Lorsqu’un utilisateur saisit des identifiants incorrects, le système affiche un message non conforme aux standards.
+## Étapes pour reproduire
+1. Aller sur la page de login
+2. Saisir un username invalide
+3. Saisir un password invalide
+4. Cliquer sur Login
+## Résultat actuel
+"Epic sadface: Username and password do not match any user in this service"
+## Résultat attendu
+Message clair, professionnel et sans expression informelle
+## Sévérité
+Moyenne
