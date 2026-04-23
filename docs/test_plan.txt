@@ -1,0 +1,17 @@
+# Test Plan - ISTQB Test Project
+## 1. Introduction
+Ce document décrit le plan de test pour vérifier la fonctionnalité de connexion de l’application.
+## 2. Objectif
+- Vérifier le bon fonctionnement du login
+- Identifier les comportements invalides
+- Assurer la qualité du système
+## 3. Périmètre
+- Fonctionnalité testée : Login
+- Champs : Username, Password
+## 4. Types de tests
+- Test fonctionnel
+- Test négatif
+- Test de validation
+## 5. Environnement
+- Navigateur : Chrome
+- OS : Windows 10
